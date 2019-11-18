@@ -1,0 +1,7 @@
+word,color,congruent,corrAns
+RED ,red,1,j
+RED ,green,0,k
+GREEN,green,1,k
+GREEN,blue,0,l
+BLUE,blue,1,l
+BLUE,red,0,j
